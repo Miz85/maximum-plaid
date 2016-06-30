@@ -11,4 +11,6 @@ export default Ember.Controller.extend({
     { timestamp: 1450345960000, value: 5, projectId: 200 }
   ]
 
+  fuelEconomy: []
+
 });
